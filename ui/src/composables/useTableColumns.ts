@@ -1,2 +1,0 @@
-// Kept for kestra-ee, which imports this path directly; remove only with the paired EE migration.
-export {useTableColumns, type ColumnConfig, type UseTableColumnsOptions} from "@kestra-io/design-system"
